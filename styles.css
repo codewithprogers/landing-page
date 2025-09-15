@@ -51,9 +51,16 @@ a {
 
 .navbar a {
   color: white;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .navbar ul {
   display: flex;
   gap: 20px;
+}
+
+.navbar .logo {
+  font-size: x-large;
+  font-weight: bold;
 }
