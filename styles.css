@@ -12,3 +12,12 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+img {
+  max-width: 100%;
+}
+
+h1, 
+h2 {
+  margin-bottom: 15px;
+}
