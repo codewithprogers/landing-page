@@ -91,3 +91,12 @@ a {
   margin-bottom: 0.15em;
   font-size: 42px;
 }
+
+.header button {
+  background-color: #3882F6;
+  padding: 5px 20px;
+  border-radius: 5px;
+  border-style: none;
+  color: white;
+  margin-top: 16px;
+}
