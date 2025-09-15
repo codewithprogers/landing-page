@@ -85,3 +85,8 @@ a {
   justify-content: center;
   align-items: center;
 }
+
+.header h1 {
+  margin-bottom: 0.15em;
+  font-size: 42px;
+}
