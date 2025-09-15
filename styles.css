@@ -55,6 +55,10 @@ a {
   font-weight: bold;
 }
 
+.navbar a:hover {
+  color: #3882F6;
+}
+
 .navbar ul {
   display: flex;
   gap: 20px;
