@@ -28,7 +28,6 @@ ul {
 
 a {
   text-decoration: none;
-  color: white;
 }
 
 .container {
@@ -41,4 +40,20 @@ a {
   background-color: #1F2937;
   color: white;
   height: 80px;
+}
+
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar ul {
+  display: flex;
+  gap: 20px;
 }
