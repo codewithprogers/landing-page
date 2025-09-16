@@ -126,3 +126,9 @@ a {
   border-radius: 8px;
   margin-bottom: 15px;
 }
+
+.boxes h4 {
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #1F2937;
+}
