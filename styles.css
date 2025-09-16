@@ -154,3 +154,10 @@ a {
   font-weight: 100;
   font-style: italic;
 }
+
+.quote .author {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: bold;
+  padding-right: 30px;
+}
