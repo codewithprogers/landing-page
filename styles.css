@@ -107,3 +107,10 @@ a {
   font-weight: bold;
   color: #1F2937;
 }
+
+.box-row {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
