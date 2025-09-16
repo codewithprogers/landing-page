@@ -148,3 +148,9 @@ a {
 .quote .container {
   max-width: 890px;
 }
+
+.quote p {
+  font-size: 22px;
+  font-weight: 100;
+  font-style: italic;
+}
