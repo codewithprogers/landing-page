@@ -144,3 +144,7 @@ a {
   display: flex;
   align-items: center;
 }
+
+.quote .container {
+  max-width: 890px;
+}
