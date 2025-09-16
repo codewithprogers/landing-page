@@ -132,3 +132,8 @@ a {
   font-weight: bold;
   color: #1F2937;
 }
+
+.boxes p {
+  font-size: 0.9rem;
+  color: #1F2937;
+}
