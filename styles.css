@@ -164,6 +164,10 @@ a {
 
 .action {
   min-height: 300px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .action .container {
