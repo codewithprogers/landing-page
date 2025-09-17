@@ -176,3 +176,8 @@ a {
   gap: 200px;
   border-radius: 10px;
 }
+
+.action p {
+  font-weight: 100;
+  font-size: 14px;
+}
