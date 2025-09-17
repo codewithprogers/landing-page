@@ -165,3 +165,14 @@ a {
 .action {
   min-height: 300px;
 }
+
+.action .container {
+  display: flex;
+  justify-content: center;
+  min-height: 200px;
+  min-width: 900px;
+  background-color: #3882F6;
+  align-items: center;
+  gap: 200px;
+  border-radius: 10px;
+}
