@@ -181,3 +181,11 @@ a {
   font-weight: 100;
   font-size: 14px;
 }
+
+.action button {
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: #3882F6;
+  color: white;
+  padding: 5px 20px;
+}
